@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fatma\\Repos\\cloudnativebasecam\\Data Structure Decode\\Data Structure Decode.csproj": {}
+    "D:\\fatma\\Repos\\cloudnative\\Data Structure Decode\\Data Structure Decode.csproj": {}
   },
   "projects": {
-    "D:\\fatma\\Repos\\cloudnativebasecam\\Data Structure Decode\\Data Structure Decode.csproj": {
+    "D:\\fatma\\Repos\\cloudnative\\Data Structure Decode\\Data Structure Decode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fatma\\Repos\\cloudnativebasecam\\Data Structure Decode\\Data Structure Decode.csproj",
+        "projectUniqueName": "D:\\fatma\\Repos\\cloudnative\\Data Structure Decode\\Data Structure Decode.csproj",
         "projectName": "Data Structure Decode",
-        "projectPath": "D:\\fatma\\Repos\\cloudnativebasecam\\Data Structure Decode\\Data Structure Decode.csproj",
+        "projectPath": "D:\\fatma\\Repos\\cloudnative\\Data Structure Decode\\Data Structure Decode.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\fatma\\Repos\\cloudnativebasecam\\Data Structure Decode\\obj\\",
+        "outputPath": "D:\\fatma\\Repos\\cloudnative\\Data Structure Decode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
