@@ -1,0 +1,15 @@
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\bin\Debug\net6.0\lesson-1.exe
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\bin\Debug\net6.0\lesson-1.deps.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\bin\Debug\net6.0\lesson-1.runtimeconfig.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\bin\Debug\net6.0\lesson-1.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\bin\Debug\net6.0\lesson-1.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.csproj.AssemblyReference.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.AssemblyInfoInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.AssemblyInfo.cs
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.csproj.CoreCompileInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\refint\lesson-1.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\lesson-1.genruntimeconfig.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\lesson-1\obj\Debug\net6.0\ref\lesson-1.dll

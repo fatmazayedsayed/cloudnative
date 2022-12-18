@@ -1,0 +1,15 @@
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\bin\Debug\net6.0\standard-deviation-code.exe
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\bin\Debug\net6.0\standard-deviation-code.deps.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\bin\Debug\net6.0\standard-deviation-code.runtimeconfig.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\bin\Debug\net6.0\standard-deviation-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\bin\Debug\net6.0\standard-deviation-code.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.csproj.AssemblyReference.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.GeneratedMSBuildEditorConfig.editorconfig
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.AssemblyInfoInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.AssemblyInfo.cs
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.csproj.CoreCompileInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\refint\standard-deviation-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\standard-deviation-code.genruntimeconfig.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\standard-deviation-code\obj\Debug\net6.0\ref\standard-deviation-code.dll

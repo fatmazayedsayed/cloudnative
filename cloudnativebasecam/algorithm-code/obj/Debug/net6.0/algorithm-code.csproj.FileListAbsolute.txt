@@ -1,0 +1,15 @@
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\bin\Debug\net6.0\algorithm-code.exe
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\bin\Debug\net6.0\algorithm-code.deps.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\bin\Debug\net6.0\algorithm-code.runtimeconfig.json
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\bin\Debug\net6.0\algorithm-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\bin\Debug\net6.0\algorithm-code.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.csproj.AssemblyReference.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.GeneratedMSBuildEditorConfig.editorconfig
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.AssemblyInfoInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.AssemblyInfo.cs
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.csproj.CoreCompileInputs.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\refint\algorithm-code.dll
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.pdb
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\algorithm-code.genruntimeconfig.cache
+D:\fatma\Repos\cloudnativebasecam\cloudnativebasecam\algorithm-code\obj\Debug\net6.0\ref\algorithm-code.dll

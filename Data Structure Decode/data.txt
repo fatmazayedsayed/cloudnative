@@ -1,0 +1,34 @@
+﻿01-data-memory
+--------------
+data is related with HD&Memory
+memory storage unit0>has many memory cell almost 8 memory cell
+each cell is a logic gate
+logic gate to contole electricity
+memory: contole cell address 
+memory has certain address mode
+memory width from 8:64 bit
+
+multiplexer:to read cell 
+add data is saved as binary data 0,1
+1->has electricity
+0->not has electricity
+bit is a momory  cell 0,1
+for numbers convert to 2~
+for text use ASCII, Uni-code(utf)
+for color:RGB code
+for image->consist of pixels->pixel is a color->so image is a matrix of colors
+
+push
+----------------------------------------------------------------------
+kkk
+--------------
+----------------------------------------------------------------------
+kkk
+--------------
+----------------------------------------------------------------------
+kkk
+--------------
+----------------------------------------------------------------------
+kkk
+--------------
+
