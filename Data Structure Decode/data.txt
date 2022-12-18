@@ -17,11 +17,16 @@ for numbers convert to 2~
 for text use ASCII, Uni-code(utf)
 for color:RGB code
 for image->consist of pixels->pixel is a color->so image is a matrix of colors
-
- 
 ----------------------------------------------------------------------
-kkk
+02 – DataTypes & Memory
 --------------
+data types
+depending on the size of the data
+varaible data type will only has one address regradless the data size
+* stack&heap
+stack:first In Last out
+heap:data not saved in order
+heap and stack not data strucutre , they are just memory location
 ----------------------------------------------------------------------
 kkk
 --------------
