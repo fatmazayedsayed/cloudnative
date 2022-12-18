@@ -28,8 +28,10 @@ stack:first In Last out
 heap:data not saved in order
 heap and stack not data strucutre , they are just memory location
 ----------------------------------------------------------------------
-kkk
+03 – Array – Introduction
 --------------
+array is a data structre
+
 ----------------------------------------------------------------------
 kkk
 --------------
