@@ -10,3 +10,7 @@ array_Operations_Implementation.Resize<int>(ref arr, 7);
 Console.WriteLine("New Array");
 Console.WriteLine(String.Join(",",arr ));
 
+int indexOf = 40;
+int item=array_Operations_Implementation.GetAt(arr, indexOf, sizeof(int));
+Console.WriteLine("get the item at the index of {0} is {1}", indexOf,item);
+
