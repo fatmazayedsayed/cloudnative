@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BC4PASSJoDv/PwbfAgwuQO00K10U850uo3bjoEkWl6Lfj+w95ClDbWZshoT+A9U7P0cor9RSztoHYvrx+cwORw==",
+  "dgSpecHash": "GLjuphr13N96Aie0Y+v07LQq0qUFS+mT3Uj2THOx9ww0DmwOS8FDUqF5w0jlwlGganvqLd8KMOpekroTecUOcA==",
   "success": true,
-  "projectFilePath": "D:\\fatma\\Repos\\cloudnativebasecam\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
+  "projectFilePath": "D:\\fatma\\Repos\\cloudnative\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

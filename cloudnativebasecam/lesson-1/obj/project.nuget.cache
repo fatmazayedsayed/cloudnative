@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQjgG9izJGJMP4qL909qpC80FvZOyTaNaoSl0Hv5UpCBA10EpFzVV0Cl/+gObB5A3Oc6cihlzUFEV0Xiq9grZw==",
+  "dgSpecHash": "jenvfPqtLnChJSpOOfJuYYvDcFxl4ZNKVPcY2bEd1AguhBv2f8A6OML9WpfYN28piJcJ23pxa13zredfMVSgEQ==",
   "success": true,
-  "projectFilePath": "D:\\fatma\\Repos\\cloudnativebasecam\\cloudnativebasecam\\lesson-1\\lesson-1.csproj",
+  "projectFilePath": "D:\\fatma\\Repos\\cloudnative\\cloudnativebasecam\\lesson-1\\lesson-1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

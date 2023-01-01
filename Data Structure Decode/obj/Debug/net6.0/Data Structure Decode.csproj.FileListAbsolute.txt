@@ -1,0 +1,15 @@
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.csproj.AssemblyReference.cache
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.GeneratedMSBuildEditorConfig.editorconfig
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.AssemblyInfoInputs.cache
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.AssemblyInfo.cs
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.csproj.CoreCompileInputs.cache
+D:\fatma\Repos\cloudnative\Data Structure Decode\bin\Debug\net6.0\Data Structure Decode.exe
+D:\fatma\Repos\cloudnative\Data Structure Decode\bin\Debug\net6.0\Data Structure Decode.deps.json
+D:\fatma\Repos\cloudnative\Data Structure Decode\bin\Debug\net6.0\Data Structure Decode.runtimeconfig.json
+D:\fatma\Repos\cloudnative\Data Structure Decode\bin\Debug\net6.0\Data Structure Decode.dll
+D:\fatma\Repos\cloudnative\Data Structure Decode\bin\Debug\net6.0\Data Structure Decode.pdb
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.dll
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\refint\Data Structure Decode.dll
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.pdb
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\Data Structure Decode.genruntimeconfig.cache
+D:\fatma\Repos\cloudnative\Data Structure Decode\obj\Debug\net6.0\ref\Data Structure Decode.dll

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\fatma\\Repos\\cloudnativebasecam\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
+      "projectUniqueName": "D:\\fatma\\Repos\\cloudnative\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
       "projectName": "algorithm-code",
-      "projectPath": "D:\\fatma\\Repos\\cloudnativebasecam\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
+      "projectPath": "D:\\fatma\\Repos\\cloudnative\\cloudnativebasecam\\algorithm-code\\algorithm-code.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\fatma\\Repos\\cloudnativebasecam\\cloudnativebasecam\\algorithm-code\\obj\\",
+      "outputPath": "D:\\fatma\\Repos\\cloudnative\\cloudnativebasecam\\algorithm-code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
