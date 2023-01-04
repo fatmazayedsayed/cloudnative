@@ -19,5 +19,27 @@ Console.WriteLine("----------------Linked List----------------");
 LinkedList linkedList = new LinkedList();
 linkedList.InsertLast(1);
 linkedList.InsertLast(2);
-linkedList.InsertLast(3);
+linkedList.InsertLast(7);
+linkedList.InsertLast(99);
+linkedList.InsertLast(90);
 linkedList.PrintList();
+Console.WriteLine("----------------Linked List After insertion----------------");
+
+linkedList.InsertAfter(linkedList.FindData(2), 5);
+
+linkedList.InsertAfter(99, 55);
+linkedList.PrintList();
+
+Console.WriteLine("----------------Linked List before insertion----------------");
+linkedList.InsertBefore(linkedList.FindData(2), 10);
+
+linkedList.PrintList();
+
+Console.WriteLine("----------------Linked List  delete----------------");
+linkedList.DeleteNode(linkedList.FindData(2));
+
+linkedList.PrintList();
+
+linkedList.DeleteNode(linkedList.FindData(1));
+
+Console.WriteLine($"head is {0}",linkedList.head.data);
